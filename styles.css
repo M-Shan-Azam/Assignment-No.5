@@ -1,0 +1,51 @@
+/* .container{
+        height: 450px;
+} */
+.border-4{
+    height: 250px;
+}
+
+.grids .box{
+    min-height: 250px;
+    
+}.mb-0{
+    height: 50px;
+    
+}
+
+header#navbar{
+    z-index: 999;
+}
+/* show navbar 100% */
+
+.faqs{
+    background: #ad5389;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3c1053, #ad5389); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+/* footer p,footer a */
+footer{
+    height: 40px;
+}
+footer p{
+    line-height: 40px;
+}
+footer a{
+    line-height: 40px;
+
+}
+
+
+/* .pt-5{
+    margin-top: 1900px;
+} */
+
+#menu1{
+    margin-top: 1900px;
+
+}
+.box{
+    min-height: 250px;
+}
+
